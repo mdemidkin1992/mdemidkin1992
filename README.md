@@ -11,6 +11,7 @@ Mockito, JDBC, Hibernate ORM, REST API, HTTP, PostgreSQL, H2,
 Docker, Git, Postman
 
 #### Selected Yandex Praktikum projects
+- Event planning service: [java-explore-with-me](https://github.com/mdemidkin1992/java-explore-with-me)
 - Item sharing service: [java-shareit](https://github.com/mdemidkin1992/java-shareit)
 - Film rating service: [java-filmorate](https://github.com/mdemidkin1992/java-filmorate)
 - Task manager: [java-kanban](https://github.com/mdemidkin1992/java-kanban)
