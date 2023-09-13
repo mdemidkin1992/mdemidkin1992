@@ -1,9 +1,6 @@
 ### Hi there! 👋
 
-I'm Maxim, and currently I take Java Developer course 
-at Yandex Praktikum (EdTech platform of a top-tier Russian IT company). 
-I'm interested in backend development technologies, algorithms and 
-datastructures.
+I'm Maxim, a highly motivated and detail-oriented Java developer passionate about backend technologies, data structures and algorithms, with working background in finance and consulting industry and strong understanding of business processes and logic behind tech products development. 
 
 #### My technology stack
 * Java 11+, Spring Framework, Spring Boot, Apache Maven, Lombok, JUnit, 
