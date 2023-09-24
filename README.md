@@ -15,7 +15,7 @@ Docker, Git, Postman
 
 #### Algorithms
 - My leetcode profile: [link](https://leetcode.com/mdemidkin/)
-- Here are examples of some popular algorithms in my implementation: [link]()
+- Here are examples of some popular algorithms in my implementation: [link](https://github.com/mdemidkin1992/algorithms/tree/main)
 
 #### Contact
 - Email: mdemidkin@gmail.com
