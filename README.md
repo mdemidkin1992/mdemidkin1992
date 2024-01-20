@@ -11,7 +11,7 @@ ___
 #### Project Softplat (started at Yandex Accelerator)
 This is a project started at Yandex Accelerator by a full team of IT professionals, including project managers, UI/UX designers, frontend, backend, QA and system analysts. 
 We completed the MVP stage during 4Q 2023 at Yandex Accelerator and plan to further develop our platform. 
-- Link to project website (currently in Russian only): [website](https://softplat.ru)
+- Link to project website (currently in Russian only): [website](https://softplat24.ru)
 - Github link (fork to my repo): [softplat-backend](https://github.com/mdemidkin1992/softplat-back)
 ___
 
